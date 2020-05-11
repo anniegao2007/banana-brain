@@ -1,5 +1,5 @@
 # banana-brain
-Deep Reinforcement Learning agent to collect yellow bananas while avoiding blue bananas in a Unity environment.
+Deep Reinforcement Learning agent trained with Deep Q-Networks (DQN) to collect yellow bananas while avoiding blue bananas in a Unity environment.
 
 ## The Problem
 In this project, we train a reinforcement learning agent to navigate and collect bananas in a large, square world. A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, we want to collect as many yellow bananas as possible while avoiding blue bananas.
